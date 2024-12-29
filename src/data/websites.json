@@ -1,17 +1,15 @@
 [
   {
-    "description": "MarkItDown 是微软团队开源的一个文档转换工具，它可以将多种格式的文件转换为 Markdown 格式。",
-    "favicon": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
-    "image": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
-    "title": "MarkItDown 一个文档转 md 工具",
-    "url": "https://github.com/microsoft/markitdown",
+    "description": "Auto Slugify 是一个 slug 生成工具，它可以将中文、英文、数字等转换为 seo 友好的 slug。",
+    "favicon": "https://opengraph.githubassets.com/5511fcfcaefc0ec460743c2a79153dd8a1689a408d686887bded84e219628fe6/KazooTTT/auto-slugify-webapp",
+    "title": "Auto Slugify - 生成友好的 slug",
+    "url": "https://github.com/KazooTTT/auto-slugify-webapp",
     "tags": [
-      "markdown",
+      "slug",
       "开源",
-      "微软",
-      "文档转MD"
+      "seo"
     ],
-    "lastReviewAt": "2024-12-28"
+    "lastReviewAt": "2024-12-30"
   },
   {
     "description": "Ghostty 是一款新一代终端工具，它的特点是原生、功能丰富、更快、开源。",
@@ -27,5 +25,19 @@
       "原生"
     ],
     "lastReviewAt": "2024-12-29"
+  },
+  {
+    "description": "MarkItDown 是微软团队开源的一个文档转换工具，它可以将多种格式的文件转换为 Markdown 格式。",
+    "favicon": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
+    "image": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
+    "title": "MarkItDown 一个文档转 md 工具",
+    "url": "https://github.com/microsoft/markitdown",
+    "tags": [
+      "markdown",
+      "开源",
+      "微软",
+      "文档转MD"
+    ],
+    "lastReviewAt": "2024-12-28"
   }
 ]
