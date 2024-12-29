@@ -1,5 +1,18 @@
 [
   {
+    "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新。",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "经济学人、纽约客等英语外刊杂志下载",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "tags": [
+      "外刊",
+      "经济学人",
+      "纽约客",
+      "卫报"
+    ],
+    "lastReviewAt": "2024-12-30"
+  },
+  {
     "description": "Auto Slugify 是一个 slug 生成工具，它可以将中文、英文、数字等转换为 seo 友好的 slug。",
     "favicon": "https://opengraph.githubassets.com/5511fcfcaefc0ec460743c2a79153dd8a1689a408d686887bded84e219628fe6/KazooTTT/auto-slugify-webapp",
     "title": "Auto Slugify - 生成友好的 slug",
