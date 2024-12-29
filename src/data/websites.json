@@ -1,0 +1,31 @@
+[
+  {
+    "description": "MarkItDown 是微软团队开源的一个文档转换工具，它可以将多种格式的文件转换为 Markdown 格式。",
+    "favicon": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
+    "image": "https://opengraph.githubassets.com/a3d2bde294ea65b5059a9a08ed66c748e4441f0a92a5a288671cb33b35e65820/microsoft/markitdown",
+    "title": "MarkItDown 一个文档转 md 工具",
+    "url": "https://github.com/microsoft/markitdown",
+    "tags": [
+      "markdown",
+      "开源",
+      "微软",
+      "文档转MD"
+    ],
+    "lastReviewAt": "2024-12-28"
+  },
+  {
+    "description": "Ghostty 是一款新一代终端工具，它的特点是原生、功能丰富、更快、开源。",
+    "favicon": "https://ghostty.org/favicon.ico",
+    "image": "https://ghostty.org/social-share-card.jpg",
+    "title": "Ghostty: 新一代终端工具",
+    "url": "https://github.com/ghostty-org/ghostty/",
+    "tags": [
+      "开源",
+      "终端",
+      "macOS",
+      "Linux",
+      "原生"
+    ],
+    "lastReviewAt": "2024-12-29"
+  }
+]
