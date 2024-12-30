@@ -1,5 +1,27 @@
 [
   {
+    "description": "本地自托管的 PDF 工具箱。",
+    "favicon": "https://cdn.prod.website-files.com/66d2b621cb0b824deff321d0/66d896f800ee31f284865f9b_stirling-favicon%20(1).png",
+    "title": "Stirling-PDF",
+    "url": "https://github.com/lqzhgood/wechat-need-web",
+    "tags": [
+      "PDF",
+      "开源"
+    ],
+    "lastReviewAt": "2024-12-30"
+  },
+  {
+    "description": "让微信网页版可用 / Allow the use of WeChat via webpage access",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "wechat-need-web",
+    "url": "https://github.com/lqzhgood/wechat-need-web",
+    "tags": [
+      "wechat-web",
+      "开源"
+    ],
+    "lastReviewAt": "2024-12-30"
+  },
+  {
     "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新。",
     "favicon": "https://github.com/favicon.ico",
     "title": "经济学人、纽约客等英语外刊杂志下载",
