@@ -1,5 +1,17 @@
 [
   {
+    "description": "Essay 是一个简洁友好的在线写作平台（社区），让你专注于文字创作。",
+    "favicon": "https://www.essay.ink/favicon.ico",
+    "title": "Essay - 纯粹友好的文字社区。",
+    "url": "https://www.essay.ink/",
+    "tags": [
+      "文字",
+      "写作",
+      "社区"
+    ],
+    "lastReviewAt": "2024-12-30"
+  },
+  {
     "description": "本地自托管的 PDF 工具箱。",
     "favicon": "https://cdn.prod.website-files.com/66d2b621cb0b824deff321d0/66d896f800ee31f284865f9b_stirling-favicon%20(1).png",
     "title": "Stirling-PDF",
