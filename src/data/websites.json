@@ -1,5 +1,16 @@
 [
   {
+    "description": "一个免费 API 集合列表.",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "public-apis - 一个免费 API 集合列表。",
+    "url": "https://github.com/public-apis/public-apis/",
+    "tags": [
+      "API",
+      "开源"
+    ],
+    "lastReviewAt": "2024-12-31"
+  },
+  {
     "description": "一个简单的文章封面生成器，让配图变得容易。",
     "favicon": "https://coverview.vercel.app/logo.png",
     "title": "Coverview - 一个简单的文章封面生成器",
