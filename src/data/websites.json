@@ -1,5 +1,17 @@
 [
   {
+    "description": "一个简单的文章封面生成器，让配图变得容易。",
+    "favicon": "https://coverview.vercel.app/logo.png",
+    "title": "Coverview - 一个简单的文章封面生成器",
+    "url": "https://coverview.vercel.app/",
+    "tags": [
+      "文章封面",
+      "开源",
+      "vercel"
+    ],
+    "lastReviewAt": "2024-12-30"
+  },
+  {
     "description": "Essay 是一个简洁友好的在线写作平台（社区），让你专注于文字创作。",
     "favicon": "https://www.essay.ink/favicon.ico",
     "title": "Essay - 纯粹友好的文字社区。",
