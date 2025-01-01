@@ -1,6 +1,18 @@
 [
   {
-    "description": "一个免费 API 集合列表.",
+    "description": "500.000+ 的开源许可协议的矢量图标。",
+    "favicon": "https://www.svgrepo.com/logo.svg",
+    "title": "SVG Repo",
+    "url": "https://www.svgrepo.com/",
+    "tags": [
+      "SVG",
+      "开源",
+      "icon"
+    ],
+    "lastReviewAt": "2025-01-01"
+  },
+  {
+    "description": "一个免费 API 集合列表。",
     "favicon": "https://github.com/favicon.ico",
     "title": "public-apis - 一个免费 API 集合列表。",
     "url": "https://github.com/public-apis/public-apis/",
