@@ -1,5 +1,17 @@
 [
   {
+    "description": "基于 JAVA 开发的 SSH/终端 工具，支持跨平台，密钥同步等。",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "Termora",
+    "url": "https://github.com/TermoraDev/termora/",
+    "tags": [
+      "终端",
+      "ssh",
+      "开源"
+    ],
+    "lastReviewAt": "2025-01-02"
+  },
+  {
     "description": "一款适用于 Windows, macOS 和 Linux 的 PS4 模拟器。",
     "favicon": "https://shadps4.net/wp-content/uploads/2024/03/cropped-SPS4_Logo.png",
     "title": "shadPS4",
