@@ -1,5 +1,17 @@
 [
   {
+    "description": "基于 Rust 开发的一款开源项目，可以选择现实世界中的一个坐标,在 Minecraft 中生成质量较高的模型。",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "Arnis",
+    "url": "https://github.com/louis-e/arnis/",
+    "tags": [
+      "Minecraft",
+      "Rust",
+      "开源"
+    ],
+    "lastReviewAt": "2025-01-03"
+  },
+  {
     "description": "基于 JAVA 开发的 SSH/终端 工具，支持跨平台，密钥同步等。",
     "favicon": "https://github.com/favicon.ico",
     "title": "Termora",
