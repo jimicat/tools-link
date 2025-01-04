@@ -1,5 +1,18 @@
 [
   {
+    "description": "基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker.",
+    "favicon": "https://pdf2zh.com/favicon.ico",
+    "title": "PDFMathTranslate",
+    "url": "https://pdf2zh.com/",
+    "tags": [
+      "PDF",
+      "翻译",
+      "开源",
+      "AI"
+    ],
+    "lastReviewAt": "2025-01-04"
+  },
+  {
     "description": "基于 Rust 开发的一款开源项目，可以选择现实世界中的一个坐标,在 Minecraft 中生成质量较高的模型。",
     "favicon": "https://github.com/favicon.ico",
     "title": "Arnis",
