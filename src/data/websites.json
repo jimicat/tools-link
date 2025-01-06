@@ -1,5 +1,17 @@
 [
   {
+    "description": "PixPin的名字来源于“Pixel Pin”，简单来说是一个截图、贴图的工具，但是PixPin以截图和贴图两大功能为核心做了大量的优化功能，目标是提升用户在工作时的工作效率，无论用户使用电脑做何种工作，都可以使用PixPin提高工作效率。",
+    "favicon": "https://pixpin.cn/images/logo.png",
+    "title": "PixPin",
+    "url": "https://pixpin.cn/",
+    "tags": [
+      "截图",
+      "贴图",
+      "工具"
+    ],
+    "lastReviewAt": "2025-01-06"
+  },
+  {
     "description": "基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker.",
     "favicon": "https://pdf2zh.com/favicon.ico",
     "title": "PDFMathTranslate",
