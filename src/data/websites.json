@@ -1,5 +1,16 @@
 [
   {
+    "description": "为开发者提供的实用在线工具集合，具有出色的用户体验。",
+    "favicon": "https://it-tools.tech/favicon-32x32.png",
+    "title": "IT-Tools",
+    "url": "https://it-tools.tech/",
+    "tags": [
+      "开源",
+      "工具"
+    ],
+    "lastReviewAt": "2025-01-08"
+  },
+  {
     "description": "🚀🤖 Crawl4AI：开源 LLM 友好型 Web 爬虫和抓取工具。",
     "favicon": "https://github.com/favicon.ico",
     "title": "Crawl4AI",
