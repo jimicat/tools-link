@@ -1,5 +1,16 @@
 [
   {
+    "description": "DeepSeek-V3 在推理速度上相较历史模型有了大幅提升。在目前大模型主流榜单中，DeepSeek-V3 在开源模型中位列榜首，与世界上最先进的闭源模型不分伯仲。",
+    "favicon": "https://www.deepseek.com/favicon.ico",
+    "title": "deepseek",
+    "url": "https://www.deepseek.com/",
+    "tags": [
+      "AI",
+      "开源模型"
+    ],
+    "lastReviewAt": "2025-01-13"
+  },
+  {
     "description": "Project Gutenberg was the first provider of free electronic books, or eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971 and his memory continues to inspire the creation of eBooks and related content today.",
     "favicon": "https://www.gutenberg.org/gutenberg/favicon.ico",
     "title": "Project Gutenberg",
