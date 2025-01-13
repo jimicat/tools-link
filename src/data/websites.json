@@ -1,5 +1,16 @@
 [
   {
+    "description": "Project Gutenberg was the first provider of free electronic books, or eBooks. Michael Hart, founder of Project Gutenberg, invented eBooks in 1971 and his memory continues to inspire the creation of eBooks and related content today.",
+    "favicon": "https://www.gutenberg.org/gutenberg/favicon.ico",
+    "title": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/",
+    "tags": [
+      "电子书",
+      "原版英文小说"
+    ],
+    "lastReviewAt": "2025-01-13"
+  },
+  {
     "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "favicon": "https://qwerty.kaiyi.cool/assets/logo-95f41da4.svg",
     "title": "Qwerty Learner",
