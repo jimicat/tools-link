@@ -1,5 +1,16 @@
 [
   {
+    "description": "轻量级紫微斗数排盘工具库，iztro 的文档以及紫微斗数相关知识科普。",
+    "favicon": "https://ziwei.pro/static/favicon.ico",
+    "title": "紫微研习社",
+    "url": "https://ziwei.pro/",
+    "tags": [
+      "紫微斗数",
+      "排盘"
+    ],
+    "lastReviewAt": "2025-01-14"
+  },
+  {
     "description": "DeepSeek-V3 在推理速度上相较历史模型有了大幅提升。在目前大模型主流榜单中，DeepSeek-V3 在开源模型中位列榜首，与世界上最先进的闭源模型不分伯仲。",
     "favicon": "https://www.deepseek.com/favicon.ico",
     "title": "deepseek",
