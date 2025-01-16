@@ -1,7 +1,18 @@
 [
   {
+    "description": "几秒钟内创建令人惊叹的AI生成图像，世界首个免费无限制AI图像生成器。",
+    "favicon": "https://raphael.app/logo.png",
+    "title": "Raphael AI",
+    "url": "https://raphael.app/zh",
+    "tags": [
+      "AI",
+      "图像生成"
+    ],
+    "lastReviewAt": "2025-01-16"
+  },
+  {
     "description": "轻量级紫微斗数排盘工具库，iztro 的文档以及紫微斗数相关知识科普。",
-    "favicon": "https://ziwei.pro/static/favicon.ico",
+    "favicon": "https://github.com/favicon.ico",
     "title": "紫微研习社",
     "url": "https://ziwei.pro/",
     "tags": [
