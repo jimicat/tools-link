@@ -1,5 +1,15 @@
 [
   {
+    "description": "Postimage 是一款非常简单、快速且可靠的免费图床服务。",
+    "favicon": "https://postimgs.org/favicon.ico",
+    "title": "postImage",
+    "url": "https://postimages.org/",
+    "tags": [
+      "图床"
+    ],
+    "lastReviewAt": "2025-01-22"
+  },
+  {
     "description": "几秒钟内创建令人惊叹的AI生成图像，世界首个免费无限制AI图像生成器。",
     "favicon": "https://raphael.app/logo.png",
     "title": "Raphael AI",
