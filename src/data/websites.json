@@ -1,5 +1,16 @@
 [
   {
+    "description": "A Clash GUI based on Tauri.",
+    "favicon": "https://github.com/favicon.ico",
+    "title": "Clash Nyanpasu～(∠・ω< )⌒☆​",
+    "url": "https://github.com/libnyanpasu/clash-nyanpasu",
+    "tags": [
+      "Clash",
+      "开源"
+    ],
+    "lastReviewAt": "2025-02-10"
+  },
+  {
     "description": "启动并运行 Llama 3.3、DeepSeek-R1、Phi-4、Gemma 2 和其他大型语言模型。",
     "favicon": "https://ollama.com/public/ollama.png",
     "title": "Ollama",
