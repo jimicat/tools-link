@@ -25,14 +25,14 @@
   },
   {
     "description": "将文件分享到附近的设备。免费、开源、跨平台。",
-    "favicon": "https://localsend.org/favicon.ico",
+    "favicon": "https://github.com/favicon.ico",
     "title": "LocalSend",
     "url": "https://localsend.org/zh-CN",
     "tags": [
       "文件传输",
       "开源"
     ],
-    "lastReviewAt": "2025-01-22"
+    "lastReviewAt": "2025-02-10"
   },
   {
     "description": "Postimage 是一款非常简单、快速且可靠的免费图床服务。",
