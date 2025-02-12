@@ -1,5 +1,16 @@
 [
   {
+    "description": "Open Source API Development Ecosystem.(open-source alternative to Postman, Insomnia)",
+    "favicon": "https://hoppscotch.io/favicon.ico",
+    "title": "hoppscotch​",
+    "url": "https://hoppscotch.io/",
+    "tags": [
+      "接口测试",
+      "开源"
+    ],
+    "lastReviewAt": "2025-02-12"
+  },
+  {
     "description": "A Clash GUI based on Tauri.",
     "favicon": "https://github.com/favicon.ico",
     "title": "Clash Nyanpasu～(∠・ω< )⌒☆​",
