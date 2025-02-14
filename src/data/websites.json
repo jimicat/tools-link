@@ -1,5 +1,16 @@
 [
   {
+    "description": "一款高度简洁的微信 Markdown 编辑器。",
+    "favicon": "https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/md/images/favicon.png",
+    "title": "微信公众号 Markdown 编辑器​",
+    "url": "https://doocs.github.io/md/",
+    "tags": [
+      "微信",
+      "Markdown"
+    ],
+    "lastReviewAt": "2025-02-14"
+  },
+  {
     "description": "Open Source API Development Ecosystem.(open-source alternative to Postman, Insomnia)",
     "favicon": "https://hoppscotch.io/favicon.ico",
     "title": "hoppscotch​",
