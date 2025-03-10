@@ -1,5 +1,16 @@
 [
     {
+    "description": "一个带有分析功能的简单 / 快速 / 安全链接缩短器，100% 在 Cloudflare 上运行。",
+    "favicon": "https://sink.cool/sink.png",
+    "title": "Sink",
+    "url": "https://sink.cool/",
+    "tags": [
+      "开源",
+      "短链生成"
+    ],
+    "lastReviewAt": "2025-03-10"
+  },
+    {
     "description": "功能丰富的命令行音频/视频下载器。",
     "favicon": "https://github.com/favicon.ico",
     "title": "yt-dlp",
